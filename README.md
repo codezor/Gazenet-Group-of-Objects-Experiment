@@ -54,3 +54,7 @@ Didn't get the modeltester_withssd.py updated and working yet.
 TODOs: 
 Add a requirments.txt for python packages used
 clean up unused imports in python files. 
+
+
+* First, download pretrained Places365 AlexNet model: https://urlzs.com/ytKK3
+Also download GazeFollow dataset the zip file is too big to upload.

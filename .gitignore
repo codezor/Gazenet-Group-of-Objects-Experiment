@@ -21,3 +21,5 @@ models/__pycache__/
 runs/
 
 imgs/
+data.zip
+whole_alexnet_places365.pth
