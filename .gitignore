@@ -1,0 +1,23 @@
+# Ignore the weird Mac OSX thing 
+__MACOSX/
+
+
+# Ignore the pycache 
+__pycache__/
+
+# Ignore Data 
+data/
+
+# gInore Model outputs
+model_outputs/
+
+#Ignore Saved Models 
+savedmodels
+
+
+# Ignore things that change on run 
+models/__pycache__/
+
+runs/
+
+imgs/

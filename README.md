@@ -34,5 +34,23 @@ Please do get in touch with us by email for any questions, comments, suggestions
 
 ## Cody's Part of the readme 
 I used this with Pytorch 1.5
+
+add the following folders 
+
+model_outputs 
+savedmodels
+
+extract the data.zip file  to a folder named data
+
 run using this 
 python modeltester.py --data_dir ./data/ --placesmodelpath ./whole_alexnet_places365.pth
+
+Notes on updates:
+Implementations updates to suport python 3.X from 2.x
+Updated network to train by fixing layer sizing
+Updated the conversion of torch.transforms to images in modeltester.py
+Didn't get the modeltester_withssd.py updated and working yet.
+
+TODOs: 
+Add a requirments.txt for python packages used
+clean up unused imports in python files. 
